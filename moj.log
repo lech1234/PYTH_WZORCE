@@ -1,0 +1,1 @@
+ERROR:__main__:Wywołanie A.m1(args=(<__main__.A object at 0x000001A67AD2A410>, 3, 0), kwargs={}) wyrzuciło błąd division by zero.
